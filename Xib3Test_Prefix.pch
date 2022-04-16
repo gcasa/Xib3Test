@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Xib3Test' target in the 'Xib3Test' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
